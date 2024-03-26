@@ -1,0 +1,11 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-text {
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-doubleunit);
+}
+.app-component-text:hover {
+  color: var(--dl-color-primary-700);
+}
