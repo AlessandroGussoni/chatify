@@ -9,6 +9,6 @@ Features implementate:
 - backend: auth con jwt (da testare), signin/signup endpoints, sqlite connection
 
 Roadmap:
-- Entro fine settimana: react login/signup form, refactor backend, user/document schema definition, se ho tempo google credentials service
+- Entro fine settimana: react login/signup form, refactor backend, user/document schema definition (90 % done run), se ho tempo google credentials service
 - settimana successiva: chat template in react, mock chat endpoints
 - 2 settimane: start working on rag pipeline consolidation
