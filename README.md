@@ -8,9 +8,11 @@ Features implementate:
 - frontend: landing page minimale, route to login
 - backend: auth con jwt (da testare), signin/signup endpoints, sqlite connection
 
+currently working on: connect frontend and backend
+
 Roadmap:
-- Entro fine settimana: react login/signup form (done), refactor backend, user/document schema definition (90 % done run), se ho tempo google credentials service
-- settimana successiva: chat template in react, mock chat endpoints, connect frontend and backend
+- Entro fine settimana: react login/signup form (done), refactor backend, user/document schema definition (90 % done run), connect frontend and backend 
+- settimana successiva: chat template in react, mock chat endpoints, auth google credentials service
 - 2 settimane: start working on rag pipeline consolidation
 
 
