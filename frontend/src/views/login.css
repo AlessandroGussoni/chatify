@@ -1,20 +1,9 @@
-.login-container {
-  width: 100%;
-  display: flex;
-  overflow: auto;
-  min-height: 100vh;
-  align-items: center;
-  flex-direction: column;
-}
-.login-form {
-  width: 200px;
-  height: 100px;
-  display: flex;
-}
-.login-container1 {
-  flex: 0 0 auto;
-  width: 200px;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
+
+
+.loginform {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
 }

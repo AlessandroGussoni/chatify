@@ -30,7 +30,7 @@ const Home = (props) => {
             <Link to="/login" className="home-navlink Button button">
               Sign Up
             </Link>
-            <Link to="/login" className="home-navlink1 Button button">
+            <Link to="/signup" className="home-navlink1 Button button">
               Log In 
             </Link>
           </div>
